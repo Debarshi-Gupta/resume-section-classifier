@@ -1,2 +1,2 @@
 ### Resume Section Classifier
-* Given resume of an individual separate out the section words like skills, projects, experience.
+The Resume Section Classifier is a Python-based tool designed to automatically identify and separate key sections (such as experience, skills, projects, education) from a full resume text, enabling structured analysis and downstream processing of unstructured resume content. This project leverages natural language processing and machine learning techniques implemented in a Jupyter Notebook to preprocess text data, extract meaningful features, and classify words or lines into their respective resume sections, streamlining the organization of resume information for HR workflows, analytics, or further classification tasks.
